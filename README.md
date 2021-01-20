@@ -9,4 +9,5 @@ This platform provides the user with a 'tourist guide' to navigate through Canad
 * React
 
 
-![Preview](https://user-images.githubusercontent.com/42366823/105231169-77b96d80-5b34-11eb-8f9d-b9120b4d975d.png)
+![Preview](https://user-images.githubusercontent.com/42366823/105235909-ef3dcb80-5b39-11eb-8c00-338b4424c9ad.png)
+![Preview](https://user-images.githubusercontent.com/42366823/105235923-f06ef880-5b39-11eb-98b9-7b9eaebd2675.png)
